@@ -12,4 +12,5 @@ cscript ospp.vbs /rearm
 This may reset your trial period once.
 > **Warning:** Can only be used a limited number of times. Not for illegal use.
 ---
-reset-office-trial
+[Read more](https://github.com/winoff-master/)
+---
